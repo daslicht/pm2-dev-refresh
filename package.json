@@ -5,11 +5,15 @@
     "name": "Marc Wensauer",
     "email": "kontakt@marcwensauer.de"
   },
-  "private": true,
+  "private": false,
   "scripts": {
     "start": "node app"
   },
   "dependencies": {
     "socket.io" : "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daslicht/pm2-dev-refresh.git"
   }
 }
