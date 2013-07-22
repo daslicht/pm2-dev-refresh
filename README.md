@@ -1,5 +1,5 @@
 # PM2-DEV-Refresh 
-is a extension for [an example](https://github.com/Unitech/pm2 "PM2") , The modern and stable CLI process manager for Node apps with native clusterization, monitoring, startup scripts and much more.
+is a extension for [PM2](https://github.com/Unitech/pm2 "PM2") , The modern and stable CLI process manager for Node apps with native clusterization, monitoring, startup scripts and much more.
 It will automatically refresh the browser after you safe a file.
 
 
