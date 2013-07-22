@@ -1,0 +1,15 @@
+{
+  "name": "pm2-dev-refresh",
+  "version": "0.0.1",
+  "author": {
+    "name": "Marc Wensauer",
+    "email": "kontakt@marcwensauer.de"
+  },
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "socket.io" : "*"
+  }
+}
