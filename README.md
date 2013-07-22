@@ -21,3 +21,5 @@ pm2 dev app.js
 
 
 # Installation
+Currently it is only working with my fork of PM2:
+https://github.com/daslicht/pm2
